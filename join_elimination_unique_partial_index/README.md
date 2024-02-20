@@ -8,7 +8,7 @@ Jacques already reported this to Hans in late 2023.
 
 ## Example
 
-The following shows the error on postgres 12.18 and 16.2.
+The following shows the issue on postgres 12.18 and 16.2.
 
 ```sql
 -- setup
