@@ -1,5 +1,7 @@
 # Join elimination not performed correctly in edge case
 
+https://www.postgresql.org/message-id/63490.1714386843@antos
+
 ## Description
 
 Join elimination is not performed correctly in an edge case.
