@@ -1,6 +1,9 @@
 # Join elimination not performed correctly in edge case
 
-https://www.postgresql.org/message-id/63490.1714386843@antos
+## Outcome
+
+Patch submitted by cybertec and coincidentally fixed by other postgres contributors: \
+https://www.postgresql.org/message-id/flat/63490.1714386843%40antos
 
 ## Description
 
